@@ -2195,13 +2195,12 @@ ul {
     padding: 20px;
     text-align: center;
     position: relative;
-    bottom: 180px;
+    bottom: 130px;
     z-index: 9999;
 }
 .box-radius {
     border-radius: 5px;
     padding: 15px;
-    height: 400px;
 }
 .team-content h3 {
     font-size: 20px;
